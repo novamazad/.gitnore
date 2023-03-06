@@ -1,3 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/novamazad/.gitnore/blob/f20292f1abd91e5e7b5bbb3229f003d15070fe53/logo/antv.png" group-title="Lokal" , Antv
+http://210.210.155.35/session/4fb0762e-7f90-11ea-a2cb-ae6fb3689b94/qwr9ew/s/s07/01.m3u8
+
 #EXTINF:-1 tvg-logo=""Local",ANTV
 http://210.210.155.35/session/4fb0762e-7f90-11ea-a2cb-ae6fb3689b94/qwr9ew/s/s07/01.m3u8
 #EXTINF:-1 tvg-logo="",BeritaSatu
