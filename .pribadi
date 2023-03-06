@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/0cc15eb4946ea5aea150cf36cf494d98.png" group-title="Local",ANTV
-http://210.210.155.35/session/4fb0762e-7f90-11ea-a2cb-ae6fb3689b94/qwr9ew/s/s07/01.m3u8
+http://210.210.155.37/qwr9ew/s/s07/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/a09601bc98096c0083191e9d08b4221f.png" group-title="Local",Berita Satu
 https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/novamazad/.gitnore/blob/main/logo/gtv.png"group-title="Local",GTV
