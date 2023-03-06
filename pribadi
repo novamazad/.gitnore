@@ -1,6 +1,6 @@
-#EXTINF:-1 tvg-logo="https://github.com/novamazad/.gitnore/blob/f20292f1abd91e5e7b5bbb3229f003d15070fe53/logo/antv.png"Local",ANTV
+#EXTINF:-1 tvg-logo=""Local",ANTV
 http://210.210.155.35/session/4fb0762e-7f90-11ea-a2cb-ae6fb3689b94/qwr9ew/s/s07/01.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/novamazad/.gitnore/blob/main/logo/btv.pngl",BeritaSatu
+#EXTINF:-1 tvg-logo="",BeritaSatu
 
 #EXTINF:-1 tvg-logo="https://github.com/novamazad/.gitnore/blob/main/logo/gtv.png"group-title="Local",GTV
 
@@ -12,7 +12,7 @@ http://103.167.167.5:8111/play/a00q/index.m3u8
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/157579
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png"group-title="Local",Kompas TV
 http://iptvtree.net:8080/fee2bbca/12e32aafa1/296214
-#EXTINF:-1 tvg-logo="https://github.com/novamazad/.gitnore/blob/main/logo/metro%20tv.png"Local",Metro TV
+#EXTINF:-1 tvg-logo=""Local",Metro TV
 http://103.167.167.5:8111/play/a00c/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png"group-title="Local",MNC TV
 http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=683098&extension=ts&play_token=M2PF34StIQ
