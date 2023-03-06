@@ -1,0 +1,44 @@
+#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/0cc15eb4946ea5aea150cf36cf494d98.png" group-title="Local",ANTV
+http://210.210.155.35/session/4fb0762e-7f90-11ea-a2cb-ae6fb3689b94/qwr9ew/s/s07/01.m3u8
+#EXTINF:-1 tvg-logo="https://iptv.lancartech.co.id:443/images/a09601bc98096c0083191e9d08b4221f.png" group-title="Local",Berita Satu
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/novamazad/.gitnore/blob/main/logo/gtv.png"group-title="Local",GTV
+#EXTINF:-1 tvg-logo="https://www.mnhttp://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=683121&extension=ts&play_token=M2PF34StIQcvision.id/userfiles/image/channel/Indosiar.png"group-title="Local",Indosiar
+http://103.167.167.5:8111/play/a00r/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/Indosiar.png"group-title="Local",Indosiar 2
+http://103.167.167.5:8111/play/a00q/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_83.png"group-title="Local",iNews
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/157579
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_106.png"group-title="Local",Kompas TV
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/296214
+#EXTINF:-1 tvg-logo=""Local",Metro TV
+http://103.167.167.5:8111/play/a00c/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png"group-title="Local",MNC TV
+http://shareext@185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=683098&extension=ts&play_token=M2PF34StIQ
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_82.png"group-title="Local",MNC TV 2
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/165054
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/oh6LOZR66hu5ikDl01oejOaQRjs=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png"group-title="Local",Moji
+http://210.210.155.35:80/session/f9dd362c-b986-11ed-aeaf-b82a72d63267/qwr9ew/s/s41/01.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/oh6LOZR66hu5ikDl01oejOaQRjs=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png"group-title="Local",Moji 2
+http://mpwtv.my.id/vidioye/206-moji.m3u8
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg"group-title="Local",NET TV
+http://103.167.167.5:8111/play/a041/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_116.jpg"group-title="Local",NET  HD
+http://iptvtree.net:8080/fee2bbca/12e32aafa1/80292
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png"group-title="Local",RCTI
+http://103.167.167.5:8111/play/a01c/index.m3u8
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/NEU5NOM51mtJVYE4bI4iP2bLSCs=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/1561/665aea.png"group-title="Local",RTV
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/sctv.png"group-title="Local",SCTV
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png"group-title="Local",Trans7
+http://103.167.167.5:8111/play/a00n/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png"group-title="Local",Trans7 2
+http://103.167.167.5:8111/play/a00o/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png"group-title="Local",Trans7 3
+http://103.167.167.5:8111/play/a048/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_87.png"group-title="Local",TRANS TV
+http://mpwtv.my.id/vidioye/733-trans.m3u8
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/tvone.png"group-title="Local",TVOne
+
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_118.jpg"group-title="Local",TVRI
